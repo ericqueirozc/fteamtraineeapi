@@ -1,4 +1,4 @@
-[
+{"movies":[
    {
     "name": "Auto da Compadecida",
     "age": 1987
@@ -15,4 +15,4 @@
     "name": "Shrek 3",
     "age": 2007
    }
-]
+]}
